@@ -11,6 +11,12 @@ An interactive Power BI dashboard has been developed to help understand customer
 
 ---
 
+## 🖼️ Dashboard Preview
+
+![Customer Behaviour Dashboard](images/Customer Behavior Dashboard.png)
+
+---
+
 ## 🎯 Project Objectives
 
 - Analyse overall customer purchasing behaviour.
