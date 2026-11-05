@@ -13,7 +13,7 @@ An interactive Power BI dashboard has been developed to help understand customer
 
 ## 🖼️ Dashboard Preview
 
-![Customer Behaviour Dashboard](images/Customer Behavior Dashboard.png)
+![Customer Behaviour Dashboard](images/customer-behavior-dashboard.png)
 
 ---
 
